@@ -1,0 +1,4 @@
+"Company / Account","First Name","Last Name","Email","Phone","Lead Status","Attempts to contact call","Attempts to contact email","Create Date"
+"Company 1", "James","Smith","james_smith@email.com","+14145556677","Attempting to contact","1st call","01/01/2016"
+"Company 2","Judy","Waylon","judy_waylon@email.com","+12095556633","Attempting to send email","2nd attempt","02/03/2016"
+"Company 3","Marsh","Dengue","marsh_dengue@email.com","+13215551133","Attempting to send email","2nd attempt","02/03/2016"
